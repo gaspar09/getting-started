@@ -6,4 +6,4 @@ unused.txt @radishsalad
 /root-only @radishsalad
 root-dir/root-only @radishsalad
 package.json @radishsalad
-./../current-dir
+
