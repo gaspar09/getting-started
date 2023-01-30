@@ -3,3 +3,5 @@
 @gaspar09 @radishsalad
  test\ space @radishsalad
 unused.txt @radishsalad
+/root-only @radishsalad
+root-dir/root-only @radishsalad
