@@ -3,7 +3,7 @@
 @gaspar09 @radishsalad
  test\ space @radishsalad
 unused.txt @radishsalad
-/root-only @radishsalad
+/root-only-dir @radishsalad
 root-dir/root-only @radishsalad
 package.json @radishsalad
 *.js @radishsalad
